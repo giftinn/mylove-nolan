@@ -499,3 +499,100 @@ bar.style.transform="scaleY(.3)";
 });
 
 },250);
+
+/* =========================================================
+   ANTI INSPECT / DEVTOOLS SHORTCUT
+========================================================= */
+
+(function () {
+
+    // Disable right click
+    document.addEventListener(
+        "contextmenu",
+        function (event) {
+
+            event.preventDefault();
+
+        }
+    );
+
+
+    // Disable common DevTools shortcuts
+    document.addEventListener(
+        "keydown",
+        function (event) {
+
+            const key =
+                event.key.toLowerCase();
+
+
+            // F12
+            if (
+                event.key === "F12"
+            ) {
+
+                event.preventDefault();
+
+                return;
+
+            }
+
+
+            // Ctrl + Shift + I
+            if (
+                event.ctrlKey &&
+                event.shiftKey &&
+                key === "i"
+            ) {
+
+                event.preventDefault();
+
+                return;
+
+            }
+
+
+            // Ctrl + Shift + J
+            if (
+                event.ctrlKey &&
+                event.shiftKey &&
+                key === "j"
+            ) {
+
+                event.preventDefault();
+
+                return;
+
+            }
+
+
+            // Ctrl + Shift + C
+            if (
+                event.ctrlKey &&
+                event.shiftKey &&
+                key === "c"
+            ) {
+
+                event.preventDefault();
+
+                return;
+
+            }
+
+
+            // Ctrl + U
+            if (
+                event.ctrlKey &&
+                key === "u"
+            ) {
+
+                event.preventDefault();
+
+                return;
+
+            }
+
+        }
+    );
+
+})();
