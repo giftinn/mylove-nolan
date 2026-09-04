@@ -14,7 +14,7 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpg">
+<img class="cover" src="src/1.jpg">
 <div class="songInfo">
 <div>Orbiter</div>
 <div style="font-size:12px;opacity:.7;margin-bottom:10px">Noah Kahan</div>
