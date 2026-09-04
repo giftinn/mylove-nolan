@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Orbiter</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Noah Kahan</div>
 
 <div class="player">
 <div class="topRow">
@@ -48,16 +48,16 @@ html:`
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,15 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+. 𐙚  ℬirthday 𝒩otes
+ㅤㅤㅤㅤmy 𝒮weetheart, Nolan
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+ . ⁺ 📨 ˳ e–mail ; Di antara begitu banyak manusia yang pernah singgah di dunia, semesta mempertemukanku denganmu—dan rasanya, itu keberuntungan terbesar yang pernah aku punya. ( 𐚁‌ ) . . Selamat bertambah usia, sayangku, Semoga halaman baru ini membawa segala bahagia yang bahkan belum sempat kamu bayangkan. ˖  ♡
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+      ㅤㅤㅤ    ౨ৎ. With Love 
+      ㅤ  ㅤㅤㅤㅤㅤ ㅤNazu                  
 
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
+      
 <span class="signal">END SIGNAL</span>
 
 </div>
